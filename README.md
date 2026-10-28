@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá! Eu sou o Carlos Eduardo 👋
 
-<!--
-**EduSilva0201/EduSilva0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Análise e Desenvolvimento de Sistemas • Em formação para atuar como desenvolvedor Full Stack**
 
-Here are some ideas to get you started:
+Estou construindo minha base em programação por meio dos estudos e de atividades práticas da faculdade. Comecei a desenvolver páginas com HTML e CSS e também estou aprendendo JavaScript, C e Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu objetivo é evoluir tanto no desenvolvimento de interfaces quanto na lógica e nos serviços que fazem uma aplicação funcionar, conectando os conhecimentos de frontend e backend em projetos próprios.
+
+## Tecnologias em aprendizado
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat)
+
+Estou no início da minha trajetória e uso os projetos para praticar e acompanhar minha evolução.
+
+## Projetos acadêmicos
+
+Atividades desenvolvidas no **segundo semestre de 2026**, na disciplina **Desenvolvimento Front Web**, com a proposta de criar páginas de sites.
+
+| Projeto | Proposta | Tecnologias |
+| --- | --- | --- |
+| [Viajô](https://github.com/EduSilva0201/viajo-2) | Página de turismo com apresentação, galeria de destinos, mapa e formulário visual de contato. | HTML e CSS |
+| PetCÃO | Página de pet shop com apresentação, galeria de imagens e formulário visual de contato. Repositório em preparação. | HTML |
+
+Os formulários desses projetos são exercícios de interface e ainda não possuem integração para envio de mensagens.
+
+## Próximos passos nos estudos
+
+- Aprofundar HTML, CSS e JavaScript para criar interfaces acessíveis e responsivas.
+- Fortalecer a lógica de programação com C e Java.
+- Aprender a desenvolver o backend e conectá-lo ao frontend.
+- Melhorar a organização e a documentação dos meus projetos.
