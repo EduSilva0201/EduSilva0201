@@ -23,9 +23,9 @@ Atividades desenvolvidas no **segundo semestre de 2026**, na disciplina **Desenv
 | Projeto | Proposta | Tecnologias |
 | --- | --- | --- |
 | [Viajô](https://github.com/EduSilva0201/viajo-2) | Página de turismo com apresentação, galeria de destinos, mapa e formulário visual de contato. | HTML e CSS |
-| PetCÃO | Página de pet shop com apresentação, galeria de imagens e formulário visual de contato. Repositório em preparação. | HTML |
+| WICKED — Halloween | Site temático com carrossel de imagens, cards, curiosidades em acordeão, menu lateral e modal. Repositório em preparação. | HTML, CSS, Bootstrap e Font Awesome |
 
-Os formulários desses projetos são exercícios de interface e ainda não possuem integração para envio de mensagens.
+O formulário de contato do Viajô e a busca do WICKED são exercícios de interface e ainda não possuem integração com backend.
 
 ## Próximos passos nos estudos
 
