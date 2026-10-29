@@ -39,3 +39,7 @@ O formulário de contato do Viajô e a busca do WICKED são exercícios de inter
 - Fortalecer a lógica de programação com C e Java.
 - Aprender a desenvolver o backend e conectá-lo ao frontend.
 - Melhorar a organização e a documentação dos meus projetos.
+
+## Pesquisa de referências profissionais
+
+[Análise comparativa de dez perfis e reflexão sobre organização do portfólio](BENCHMARKING.md).
