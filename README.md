@@ -43,3 +43,7 @@ O formulário de contato do Viajô e a busca do WICKED são exercícios de inter
 ## Pesquisa de referências profissionais
 
 [Análise comparativa de dez perfis e reflexão sobre organização do portfólio](BENCHMARKING.md).
+
+## Contato
+
+[LinkedIn — Carlos Eduardo](https://www.linkedin.com/in/carlos-eduardo-46a74a189/)
