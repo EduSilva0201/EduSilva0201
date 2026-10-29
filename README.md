@@ -27,6 +27,12 @@ Atividades desenvolvidas no **segundo semestre de 2026**, na disciplina **Desenv
 
 O formulário de contato do Viajô e a busca do WICKED são exercícios de interface e ainda não possuem integração com backend.
 
+## Projeto complementar
+
+| Projeto | Proposta | Tecnologias |
+| --- | --- | --- |
+| [Estudaí — Controle de tarefas](https://github.com/EduSilva0201/controle-tarefas-estudo) | Organização de atividades por disciplina, filtros, progresso e salvamento no navegador. Projeto de prática criado com auxílio de IA. | HTML, CSS e JavaScript |
+
 ## Próximos passos nos estudos
 
 - Aprofundar HTML, CSS e JavaScript para criar interfaces acessíveis e responsivas.
