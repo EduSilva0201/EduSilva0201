@@ -24,7 +24,7 @@
 
 ## Arquivos e validação visual
 
-- [ ] Recuperar e enviar as imagens originais do Viajô: img/1.jpg, img/2.jpg, img/3.jpg, img/4.jpg, img/5.jpg, img/cultura.jpg e img/hero.jpg.
+- [x] Recuperar e enviar as imagens do Viajô (versões otimizadas para web): img/1.jpg, img/2.jpg, img/3.jpg, img/4.jpg, img/5.jpg, img/cultura.jpg e img/hero.jpg.
 - [ ] Abrir os três projetos no navegador e registrar capturas reais em docs/preview.png de cada repositório.
 - [ ] Inserir no README de cada projeto: `![Interface do projeto](docs/preview.png)` após enviar a imagem.
 - [ ] Testar visualmente em computador e celular. No Estudaí, cadastrar, concluir, filtrar, recarregar e excluir tarefas.
