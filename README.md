@@ -23,7 +23,7 @@ Atividades desenvolvidas no **segundo semestre de 2026**, na disciplina **Desenv
 | Projeto | Proposta | Tecnologias |
 | --- | --- | --- |
 | [Viajô](https://github.com/EduSilva0201/viajo-2) | Página de turismo com apresentação, galeria de destinos, mapa e formulário visual de contato. | HTML e CSS |
-| WICKED — Halloween | Site temático com carrossel de imagens, cards, curiosidades em acordeão, menu lateral e modal. Repositório em preparação. | HTML, CSS, Bootstrap e Font Awesome |
+| [WICKED — Halloween](https://github.com/EduSilva0201/wicked-halloween-bootstrap) | Site temático com carrossel de imagens, cards, curiosidades em acordeão, menu lateral e modal. | HTML, CSS, Bootstrap e Font Awesome |
 
 O formulário de contato do Viajô e a busca do WICKED são exercícios de interface e ainda não possuem integração com backend.
 
