@@ -2,6 +2,8 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas • Em formação para atuar como desenvolvedor Full Stack**
 
+Atuo há **5 anos com suporte técnico N2 pleno voltado a sistemas ERP** e também como **implantador de software ERP**, atualmente na **BENU ERP**. Essa experiência me aproxima das necessidades dos usuários e dos processos de negócio, complementando minha formação em desenvolvimento de software.
+
 Estou construindo minha base em programação por meio dos estudos e de atividades práticas da faculdade. Comecei a desenvolver páginas com HTML e CSS e também estou aprendendo JavaScript, C e Java.
 
 Meu objetivo é evoluir tanto no desenvolvimento de interfaces quanto na lógica e nos serviços que fazem uma aplicação funcionar, conectando os conhecimentos de frontend e backend em projetos próprios.
