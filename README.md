@@ -33,13 +33,13 @@ O formulário de contato do Viajô e a busca do WICKED são exercícios de inter
 
 | Projeto | Proposta | Tecnologias |
 | --- | --- | --- |
-| [Estudaí — Controle de tarefas](https://github.com/EduSilva0201/controle-tarefas-estudo) | Organização de atividades por disciplina, filtros, progresso e salvamento no navegador. Projeto de prática criado com auxílio de IA. | HTML, CSS e JavaScript |
+| [Estudaí — Controle de tarefas](https://github.com/EduSilva0201/controle-tarefas-estudo) | Organização de atividades por disciplina, filtros, progresso e salvamento no navegador. Projeto de prática. | HTML, CSS e JavaScript |
 
 ## Projeto em desenvolvimento
 
 | Projeto | Proposta | Tecnologias atuais |
 | --- | --- | --- |
-| [LM SportsFoto](https://github.com/EduSilva0201/lm-sportsfoto) | 🚧 Site de fotografia esportiva com portfólio, busca e filtros de eventos, galerias e seleção demonstrativa de fotos. Desenvolvido com auxílio de IA. | HTML, CSS, JavaScript e LocalStorage |
+| [LM SportsFoto](https://github.com/EduSilva0201/lm-sportsfoto) | 🚧 Site de fotografia esportiva com portfólio, busca e filtros de eventos, galerias e seleção demonstrativa de fotos. | HTML, CSS, JavaScript e LocalStorage |
 
 O projeto está em desenvolvimento. O painel administrativo, o backend, o banco de dados e a integração de pagamentos com Asaas estão planejados e ainda não foram implementados.
 
