@@ -47,7 +47,7 @@ O projeto está em desenvolvimento. O painel administrativo, o backend, o banco 
 
 | Projeto | Proposta | Tecnologias atuais |
 | --- | --- | --- |
-| [Mascavo-Fitwear](https://github.com/EduSilva0201/mascavo-fitwear) | 🚧 Site voltado para venda de itens Fitness, busca e filtros de eventos, compras online e envio para todo Brasil. | HTML, CSS, JavaScript e LocalStorage |
+| [Mascavo-Fitwear](https://github.com/EduSilva0201/mascavo-fitwear) | 🚧 Site voltado para venda de itens Fitness, busca e filtros, compras online e envio para todo Brasil. | HTML, CSS, JavaScript e LocalStorage |
 
 O projeto está em desenvolvimento. O painel administrativo, o backend, o banco de dados e a integração de pagamentos com Mercado Pago estão planejados e ainda não foram implementados.
 
