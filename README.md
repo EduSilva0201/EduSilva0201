@@ -43,6 +43,14 @@ O formulário de contato do Viajô e a busca do WICKED são exercícios de inter
 
 O projeto está em desenvolvimento. O painel administrativo, o backend, o banco de dados e a integração de pagamentos com Asaas estão planejados e ainda não foram implementados.
 
+## Projeto em desenvolvimento 2 
+
+| Projeto | Proposta | Tecnologias atuais |
+| --- | --- | --- |
+| [LM SportsFoto](https://github.com/EduSilva0201/mascavo-fitwear) | 🚧 Site voltado para venda de itens Fitness, busca e filtros de eventos, compras online e envio para todo Brasil. | HTML, CSS, JavaScript e LocalStorage |
+
+O projeto está em desenvolvimento. O painel administrativo, o backend, o banco de dados e a integração de pagamentos com Mercado Pago estão planejados e ainda não foram implementados.
+
 ## Próximos passos nos estudos
 
 - Aprofundar HTML, CSS e JavaScript para criar interfaces acessíveis e responsivas.
