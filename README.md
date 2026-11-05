@@ -1,4 +1,4 @@
-# Olá! Eu sou o Carlos Eduardo 👋
+# Olá! Eu sou o Carlos Eduardo 🤖
 
 **Estudante de Análise e Desenvolvimento de Sistemas • Em formação para atuar como desenvolvedor Full Stack**
 
