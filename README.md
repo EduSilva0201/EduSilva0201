@@ -37,12 +37,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e trabalho há **5 a
   <img alt="Cobrinha animada percorrendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/EduSilva0201/EduSilva0201/output/snake.svg">
 </picture>
 
-<details>
-<summary>🎲 Abra para ver a pergunta bônus do suporte</summary>
-
-**Você lembra o que clicou antes de aparecer a mensagem?**  
-O print mostra onde o problema apareceu. O passo a passo ajuda a descobrir como ele começou.
-
-</details>
-
 [Pesquisa de perfis e reflexão sobre meu portfólio](BENCHMARKING.md)
