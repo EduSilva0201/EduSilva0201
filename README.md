@@ -1,3 +1,5 @@
+![Banner ilustrado com um computador retrô, uma cobrinha e símbolos de programação](assets/banner-perfil.webp)
+
 <h1 align="center"> Carlos Eduardo Silva Costa</h1>
 <p align="center"><strong>Suporte N2 pleno · Implantação de ERP · Desenvolvimento Full Stack em formação</strong></p>
 <p align="center">
@@ -34,17 +36,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e trabalho há **5 a
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduSilva0201/EduSilva0201/output/snake-dark.svg">
   <img alt="Cobrinha animada percorrendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/EduSilva0201/EduSilva0201/output/snake.svg">
 </picture>
-
-## 🐛 Como um bug vira chamado de N2
-
-```mermaid
-flowchart TD
-    A["Cliente: só acontece aqui"] --> B["Reproduzir com o mesmo cenário"]
-    B --> C{"Consegui reproduzir?"}
-    C -->|Sim| D["Registrar o passo a passo e encaminhar"]
-    C -->|Ainda não| E["Conferir versão, permissões e logs"]
-    E --> B
-```
 
 <details>
 <summary>🎲 Abra para ver a pergunta bônus do suporte</summary>
