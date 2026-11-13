@@ -1,7 +1,7 @@
 ![Colagem de logos de programação sobre um fundo escuro](assets/banner-tecnologias.webp)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&amp;size=25&amp;duration=3400&amp;pause=1000&amp;color=39FF6A&amp;background=06120AFF&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=64&amp;lines=%3E+Ol%C3%A1%2C+eu+sou+o+Carlos+Eduardo+_%3B%3E+Suporte+N3+na+BENU+ERP+_%3B%3E+Implantador+de+Software+ERP+_%3B%3E+5+anos+de+experi%C3%AAncia+em+ERP+_%3B%3E+Estudante+de+ADS+_%3B%3E+Full+Stack+em+forma%C3%A7%C3%A3o+_" alt="Apresentação animada de Carlos Eduardo em estilo terminal verde">
+  <img src="assets/terminal-perfil.svg" alt="Apresentação animada de Carlos Eduardo em estilo terminal verde">
 </p>
 
 <h1 align="center"> Carlos Eduardo Silva Costa</h1>
