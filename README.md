@@ -1,4 +1,4 @@
-![Banner ilustrado com um computador retrô, uma cobrinha e símbolos de programação](assets/banner-perfil.webp)
+![Colagem de logos de programação sobre um fundo escuro](assets/banner-tecnologias.webp)
 
 <h1 align="center"> Carlos Eduardo Silva Costa</h1>
 <p align="center"><strong>Suporte N2 pleno · Implantação de ERP · Desenvolvimento Full Stack em formação</strong></p>
