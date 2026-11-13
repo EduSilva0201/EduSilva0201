@@ -1,7 +1,7 @@
 ![Colagem de logos de programação sobre um fundo escuro](assets/banner-tecnologias.webp)
 
 <h1 align="center"> Carlos Eduardo Silva Costa</h1>
-<p align="center"><strong>Suporte N2 pleno · Implantação de ERP · Desenvolvimento Full Stack em formação</strong></p>
+<p align="center"><strong>Suporte N3 e Implantador de Software · Desenvolvimento Full Stack em formação</strong></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-eduardo-46a74a189/"><img alt="LinkedIn de Carlos Eduardo" src="https://img.shields.io/badge/LinkedIn-Perfil-0969DA?style=flat-square"></a>
   <a href="https://github.com/EduSilva0201?tab=overview#user-activity-overview"><img alt="Atividade no GitHub" src="https://img.shields.io/badge/GitHub-Atividade-6E40C9?style=flat-square&logo=github&logoColor=white"></a>
@@ -9,7 +9,7 @@
 
 > “Só acontece na máquina do cliente” é onde a investigação começa. 🔍
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e trabalho há **5 anos com suporte técnico N2 pleno para sistemas ERP**. Na **BENU ERP**, também atuo com implantação de software ERP. Nos meus projetos, pratico como ligar interfaces, APIs e bancos de dados.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e tenho **5 anos de experiência com suporte técnico a sistemas ERP**. Atualmente, atuo como **Suporte N3 e Implantador de Software** na **BENU ERP**. Nos meus projetos, pratico como ligar interfaces, APIs e bancos de dados.
 
 ## 💻 O que estou praticando
 
