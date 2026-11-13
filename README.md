@@ -1,7 +1,7 @@
 ![Colagem de logos de programação sobre um fundo escuro](assets/banner-tecnologias.webp)
 
 <p align="center">
-  <img src="assets/terminal-perfil.svg" alt="Apresentação animada de Carlos Eduardo em estilo terminal verde">
+  <img src="https://raw.githubusercontent.com/EduSilva0201/EduSilva0201/6289961e4d95eeee0265989e3b827742467cc3de/assets/terminal-perfil.svg" alt="Comandos de logs e Git digitados em um terminal verde">
 </p>
 
 <h1 align="center"> Carlos Eduardo Silva Costa</h1>
