@@ -1,4 +1,4 @@
-<h1 align="center">👋 Carlos Eduardo Silva Costa</h1>
+<h1 align="center"> Carlos Eduardo Silva Costa</h1>
 <p align="center"><strong>Suporte N2 pleno · Implantação de ERP · Desenvolvimento Full Stack em formação</strong></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-eduardo-46a74a189/"><img alt="LinkedIn de Carlos Eduardo" src="https://img.shields.io/badge/LinkedIn-Perfil-0969DA?style=flat-square"></a>
