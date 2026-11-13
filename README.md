@@ -28,6 +28,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e trabalho há **5 a
 | 🧳 [Viajô](https://github.com/EduSilva0201/viajo-2) | Página acadêmica de turismo com galeria de destinos, mapa e formulário demonstrativo em HTML e CSS. |
 | 🎃 [WICKED](https://github.com/EduSilva0201/wicked-halloween-bootstrap) | Site acadêmico de Halloween com carrossel, acordeão, menu lateral e modal feitos com Bootstrap. |
 
+## 🐍 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduSilva0201/EduSilva0201/output/snake-dark.svg">
+  <img alt="Cobrinha animada percorrendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/EduSilva0201/EduSilva0201/output/snake.svg">
+</picture>
+
 ## 🐛 Como um bug vira chamado de N2
 
 ```mermaid
